@@ -1,0 +1,6 @@
+﻿  Test.c
+D:\C\TestList02\Test.c(131,14): warning C4098: “DeleListHead”:“void”函数返回值
+D:\C\TestList02\Test.c(146,14): warning C4098: “DeleListTail”:“void”函数返回值
+D:\C\TestList02\Test.c(199,14): warning C4098: “DeleListRand”:“void”函数返回值
+D:\C\TestList02\Test.c(109): warning C4715: “SeleteList”: 不是所有的控件路径都返回值
+  TestList02.vcxproj -> D:\C\TestList02\Debug\TestList02.exe

@@ -1,0 +1,2 @@
+D:\C\TestList02\Debug\TestList02.exe
+D:\C\TestList02\Debug\TestList02.pdb
